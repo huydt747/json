@@ -4,8 +4,7 @@
       "id": 1,
       "name": "Nguyễn Văn A",
       "email": "nguyenvana@example.com",
-      "age": 25,
-      "gender": "male"
+      "age": 25
     }
   ]
 }
