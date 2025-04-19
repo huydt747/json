@@ -1,0 +1,13 @@
+{
+  "name": "Nguyễn Văn A",
+  "email": "nguyenvana@example.com",
+  "password": "12345678",
+  "age": 25,
+  "gender": "male",
+  "address": {
+    "street": "123 Đường ABC",
+    "city": "Hà Nội",
+    "district": "Ba Đình"
+  },
+  "phone": "0912345678"
+}
