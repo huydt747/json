@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Gạo",
+    "description": "Gạo trắng, hạt dài, chất lượng cao.",
+    "price": 25000,
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "name": "Dầu ăn",
+    "description": "Dầu ăn tinh khiết, phù hợp với mọi món ăn.",
+    "price": 35000,
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "name": "Nước mắm",
+    "description": "Nước mắm nguyên chất, hương vị đậm đà.",
+    "price": 20000,
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "name": "Sữa tươi",
+    "description": "Sữa tươi nguyên chất, giàu dinh dưỡng.",
+    "price": 15000,
+    "stock": 120
+  },
+  {
+    "id": 5,
+    "name": "Trái cây tươi",
+    "description": "Trái cây đa dạng, tươi ngon mỗi ngày.",
+    "price": 30000,
+    "stock": 200
+  },
+  {
+    "id": 6,
+    "name": "Bánh kẹo",
+    "description": "Bánh kẹo ngọt, đủ loại hương vị cho mọi lứa tuổi.",
+    "price": 10000,
+    "stock": 300
+  },
+  {
+    "id": 7,
+    "name": "Mì ăn liền",
+    "description": "Mì ăn liền tiện lợi, dễ chế biến.",
+    "price": 5000,
+    "stock": 150
+  },
+  {
+    "id": 8,
+    "name": "Cà phê",
+    "description": "Cà phê rang xay, hương vị mạnh mẽ.",
+    "price": 40000,
+    "stock": 80
+  }
+]
