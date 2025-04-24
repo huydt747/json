@@ -25,7 +25,7 @@ app.get('/api/items/:id', (req, res) => {
   const data = readDataFromFile();
   const item = data.find((i) => i.id === parseInt(req.params.id));
   if (!item) {
-    return res.status(404).json({ message: 'Không tìm thấy item });
+    return res.status(404).json({ message: 'Không tìm thấy item' });
   }
   res.json(item);
 });
@@ -64,5 +64,5 @@ app.delete('/api/items/:id', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server đang chạy ở http://localhost:${PORT}         endpoint: http://localhost:${PORT}/api/items/ `);
+  console.log(`Server đang chạy ở http://localhost:${PORT}         endpoint: http://localhost:${PORT}/api/items/(id) `);
 });
